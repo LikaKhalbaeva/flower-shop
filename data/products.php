@@ -1,0 +1,51 @@
+<?php
+$products = [
+    1 => [
+        'id' => 1,
+        'name' => 'Pink Carnations',
+        'desc' => 'Delicate pink carnations wrapped in craft paper — tender and sweet.',
+        'price' => 31,
+        'img' => '../pages/c1G.png',
+        'color' => '#f9d4d4',
+    ],
+    2 => [
+        'id' => 2,
+        'name' => 'White Chrysanthemums',
+        'desc' => 'Pure white chrysanthemums in a pink gift wrap — elegant and classic.',
+        'price' => 45,
+        'img' => '../pages/c3G.png',
+        'color' => '#f5eeee',
+    ],
+    3 => [
+        'id' => 3,
+        'name' => 'White Lilies',
+        'desc' => 'Tall white lilies in a luxury wrap — timeless beauty.',
+        'price' => 48,
+        'img' => '../pages/c2G.png',
+        'color' => '#f0ece6',
+    ],
+    4 => [
+        'id' => 4,
+        'name' => 'Pink Rose Bouquet',
+        'desc' => 'Lush bouquet of 51 pink spray roses wrapped in newspaper — a grand gesture.',
+        'price' => 120,
+        'img' => '../pages/c4G.png',
+        'color' => '#fce4ec',
+    ],
+    5 => [
+        'id' => 5,
+        'name' => 'Sunflower Mix',
+        'desc' => 'Bright sunflowers with eucalyptus in craft paper — sunny and cheerful.',
+        'price' => 36,
+        'img' => '../pages/c5G.png',
+        'color' => '#fff9c4',
+    ],
+    6 => [
+        'id' => 6,
+        'name' => 'Pastel Mix',
+        'desc' => 'Romantic mix of pink roses and white orchids — soft and dreamy.',
+        'price' => 36,
+        'img' => '../pages/c6G.png',
+        'color' => '#ede7f6',
+    ],
+];
